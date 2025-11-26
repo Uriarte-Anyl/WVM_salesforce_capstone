@@ -1,7 +1,3 @@
-Here is the updated README with the new demo link:
-
----
-
 # WhatsNext Vision Motors – Salesforce CRM Project
 
 ## Project Overview
@@ -56,5 +52,3 @@ For project-related questions or further assistance, contact:
 [uriarteanylfeboe@gmail.com](mailto:uriarteanylfeboe@gmail.com)
 
 ---
-
-If you want this converted into a more formal GitHub-style README or need a version with a table of contents, just let me know.
